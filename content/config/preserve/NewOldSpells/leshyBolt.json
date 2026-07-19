@@ -44,7 +44,7 @@
 		"levels" : {
 			"base" : {
 				"range" : "0",
-				"description" : "{Light Globe}\r\n\r\nYou cannot see this description.",
+				"description" : "{Light Globe}\r\n\r\nCauses a globe of magical light to strike the selected creature.",
 				"cost" : 0,
 				"power" : 10,
 				//				"aiValue": 12,

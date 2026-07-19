@@ -60,7 +60,7 @@
 				"targetModifier" : {
 					"smart" : false
 				},
-				"description" : "{Scout}\r\n\r\n undefined",
+				"description" : "{Scout}\r\n\r\nPrevents the selected creature from acting for 1 turn.",
 
 				"cost" : 0,
 				"effects" : {

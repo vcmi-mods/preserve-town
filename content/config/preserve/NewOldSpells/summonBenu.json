@@ -43,7 +43,7 @@
 		"levels" : {
 			"base" : {
 				"range" : "X",
-				"description" : "NOT USED",
+				"description" : "{Summon Sun Bird}\r\n\r\nSummons a Sun Bird onto the battlefield.",
 				"cost" : 0,
 				//				"aiValue": 12,
 				"power" : 1,

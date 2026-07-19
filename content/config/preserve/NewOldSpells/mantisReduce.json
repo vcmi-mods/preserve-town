@@ -52,7 +52,7 @@
 				"power" : 10,
 				//				"aiValue": 12,
 				"range" : "0",
-				"description" : "{Armor Break}\r\n\r\nNo need description.",
+				"description" : "{Armor Break}\r\n\r\nReduces the selected creature's damage resistance by 20% for 3 turns.",
 				"cost" : 0,
 				"targetModifier" : {
 					"smart" : true

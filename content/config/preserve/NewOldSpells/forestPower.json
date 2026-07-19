@@ -58,7 +58,7 @@
 				"targetModifier" : {
 					"smart" : true
 				},
-				"description" : "{Forest Power}\r\n\r\n undefined",
+				"description" : "{Forest Power}\r\n\r\nBestows +3 Attack, +3 Defense, and +3 Speed on the selected creature, and causes it to inflict maximum damage for 3 turns.",
 
 				"cost" : 0,
 				"range" : "X",

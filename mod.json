@@ -1,14 +1,16 @@
 {
 	"name" : "Preserve",
-	"description" : "New town made by Ben Yan",
 	"author" : "FF Team, mod : Turbanellos",
 	"contact" : "http://forum.vcmi.eu/index.php",
-	"version" : "1.6.5",
+	"version" : "1.6.6",
 	"modType" : "Town",
 	"compatibility" : {
 		"min" : "1.7.0"
 	},
 	"changelog" : {
+		"1.6.6" : [
+			"Added Czech translation by George King"
+		],
 		"1.6.5" : [
 			"Another update to vcmi-1.7 format"
 		],
@@ -75,33 +77,34 @@
 	},
 	"chinese" : {
 		"name" : "禁林",
-		"description" : "禁林生物的设计源自魔戒的世界观，是一片被遗忘的领域。作者：FF Team、Turbanellos、By003。",
 		"translations" : [
 			"translation/chinese.json"
 		]
 	},
 	"russian" : {
 		"name" : "Заповедник",
-		"description" : "Новый город Заповедник, созданный Turbanellos, The Forgotten Fields, avatar, acidchalk",
 		"translations" : [
 			"translation/russian.json"
 		]
 	},
 	"german" : {
 		"name" : "Reservat",
-		"description" : "Neue Stadt erstellt von Turbanellos, The Forgotten Fields, avatar, acidchalk",
 		"translations" : [
 			"translation/german.json"
 		]
 	},
 	"polish" : {
 		"name" : "Rezerwat",
-		"description" : "Nowe miasto inspirowane leśnym środowiskiem autorstwa Ben Yana",
 		"translations" : [
 			"translation/polish.json"
 		]
 	},
-
+	"czech" : {
+		"name" : "Obora",
+		"translations" : [
+			"translation/czech.json"
+		]
+	},
 	"factions" : [
 		"config/preserve/town"
 	],

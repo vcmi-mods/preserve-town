@@ -57,7 +57,7 @@
 				//				"aiValue": 12,
 				"range" : "0",
 
-				"description" : "{Symbiosis}",
+				"description" : "{Symbiosis}\r\n\r\nDire Wolves gain 1 additional attack, while White Tigers cast Scout after attacking.",
 
 				"cost" : 0,
 

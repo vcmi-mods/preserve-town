@@ -43,7 +43,7 @@
 		"levels" : {
 			"base" : {
 				"range" : "X",
-				"description" : "Summon Raven",
+				"description" : "{Summon Raven}\r\n\r\nSummons a Raven onto the battlefield.",
 				"cost" : 0,
 				//				"aiValue": 12,
 				"power" : 1,

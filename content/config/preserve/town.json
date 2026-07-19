@@ -7,7 +7,7 @@
 			"130px" : "preserve/creature-bg-130px.bmp"
 		},
 		"name" : "Preserve",
-		"description" : "Preserve (Chinese name means: Hunting sanctuary) is a design inspired by the Lord of the Rings legend. In HoMM3 worldview, It was an independent new country established in Welnin, 1167 the Silence. They live in Welnin Kingdom, Harmondale, with elves and animals.",
+		"description" : "Preserve is a town inspired by the legend of The Lord of the Rings. Its inhabitants live alongside elves and forest animals.",
 		"nativeTerrain" : "grass",
 		"puzzleMap" : {
 			"prefix" : "preserve/puzzle-map/PUZ",

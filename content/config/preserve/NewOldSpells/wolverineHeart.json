@@ -55,7 +55,7 @@
 				"targetModifier" : {
 					"smart" : true
 				},
-				"description" : "{Magic Barrier}\r\n\r\n sprite dragon used",
+				"description" : "{Magic Barrier}\r\n\r\nSprite Dragons cast Power Barrier on their target after attacking.",
 
 				"cost" : 0,
 
