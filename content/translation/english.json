@@ -282,5 +282,6 @@
 	"spell.preserve-town.wolverineHeart.description.basic" : "{Magic Barrier}\r\n\r\nSprite Dragons cast Power Barrier on their target after attacking.",
 	"spell.preserve-town.wolverineHeart.description.expert" : "{Magic Barrier}\r\n\r\nSprite Dragons cast Power Barrier on their target after attacking.",
 	"spell.preserve-town.wolverineHeart.description.none" : "{Magic Barrier}\r\n\r\nSprite Dragons cast Power Barrier on their target after attacking.",
-	"spell.preserve-town.wolverineHeart.name" : "Magic Barrier"
+	"spell.preserve-town.wolverineHeart.name" : "Magic Barrier",
+	"mod.name" : "Preserve"
 }
