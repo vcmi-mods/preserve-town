@@ -1322,8 +1322,8 @@
 					"animation" : "preserve/town-screen/buildings/TBPRup_1",
 					"area" : "preserve/town-screen/buildings-area/TZPRup_1",
 					"border" : "preserve/town-screen/buildings-border/TOPRup_1",
-					"x" : 0,
-					"y" : 0
+					"x" : 86,
+					"y" : 116
 				},
 				"dwellingUpLvl3" : {
 					"animation" : "preserve/town-screen/buildings/TBPRup_2",

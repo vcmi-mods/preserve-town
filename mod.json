@@ -81,6 +81,12 @@
 			"translation/chinese.json"
 		]
 	},
+	"french" : {
+		"name" : "Réserve",
+		"translations" : [
+			"translation/french.json"
+		]
+	},
 	"russian" : {
 		"name" : "Заповедник",
 		"translations" : [
